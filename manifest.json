@@ -1,0 +1,12 @@
+{
+  "name":"Levelup Counter",
+  "short_name":"Levelup Counter",
+  "description":"キャラクターの現在Lvとレアリティから必要な赤リンゴ・虹リンゴを計算するPWA",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "orientation":"portrait",
+  "background_color":"#f3f4f6",
+  "theme_color":"#111827",
+  "lang":"ja"
+}

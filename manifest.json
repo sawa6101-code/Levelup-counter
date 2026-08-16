@@ -10,6 +10,6 @@
   "theme_color":"#111827",
   "lang":"ja",
   "icons":[
-    {"src":"./icon.svg","sizes":"512x512","type":"image/svg+xml","purpose":"any maskable"}
+    {"src":"./icon-rainbow.svg","sizes":"512x512","type":"image/svg+xml","purpose":"any maskable"}
   ]
 }

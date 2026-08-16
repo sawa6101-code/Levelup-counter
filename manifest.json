@@ -8,5 +8,8 @@
   "orientation":"portrait",
   "background_color":"#f3f4f6",
   "theme_color":"#111827",
-  "lang":"ja"
+  "lang":"ja",
+  "icons":[
+    {"src":"./icon.svg","sizes":"512x512","type":"image/svg+xml","purpose":"any maskable"}
+  ]
 }
